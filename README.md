@@ -1,5 +1,5 @@
 # ComfyAI（ComfyController）
-
+# 源码下载，夸克网盘：https://pan.quark.cn/s/f6eb12fdc517
 一个基于 Android（Jetpack Compose）的 ComfyUI 移动端控制器：用于连接 ComfyUI 服务、提交工作流到队列、查看执行与产物，并提供“AI 应用”工作流入口与本地画廊管理。
 
 ## 功能特性
